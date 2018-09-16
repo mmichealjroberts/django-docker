@@ -1,2 +1,2 @@
 # django-docker
-My base Django project for easy Docker deployment.
+A base Docker setup for your Django web project.
